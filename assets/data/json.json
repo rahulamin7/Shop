@@ -1,0 +1,36 @@
+[
+  {
+    "brand": "vegetables",
+    "category": "vegetables",
+    "collection": [ "on sale" ],
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+    "discount": 20,
+    "id": 2,
+    "new": true,
+    "price": 12,
+    "sale": true,
+    "stock": 50,
+    "tags": [ "vegetable" ],
+    "title": "Karela (Bitter Graud)",
+    "type": "vegetables",
+    "images": [
+      {
+        "alt": "vegetables",
+        "id": 2,
+        "image_id": 211,
+        "src": "https://ramsreality.com/aaryamall/2.jpg",
+        "type": "vegetables",
+        "variant_id": [ 201 ]
+      }
+    ],
+
+    "variants": [
+      {
+        "id": 2,
+        "image_id": 211,
+        "sku": "karela",
+        "type": "vegetables",
+        "variant_id": 201
+      }
+    ]
+  }]

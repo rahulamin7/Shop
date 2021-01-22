@@ -1,0 +1,68 @@
+[
+  {
+    "brand": "vegetables",
+    "category": "vegetables",
+    "collection": [ "on sale" ],
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+    "discount": 20,
+    "id": 2,
+    "images": [
+      {
+        "image_id": 211,
+        "id": 2,
+        "alt": "vegetables",
+        "src": "https://ramsreality.com/aaryamall/2.jpg",
+        "type": "vegetables"
+      }
+    ],
+    "new": 1,
+    "price": 12,
+    "sale": true,
+    "stock": 50,
+    "tags": [ "vegetable" ],
+    "title": "Karela (Bitter Graud)",
+    "type": "vegetables",
+    "variants": [
+      {
+        "variant_id": 201,
+        "id": 2,
+        "sku": "karela",
+        "image_id": 211,
+        "type": "vegetables"
+      }
+    ]
+  },
+  {
+    "brand": "vegetables",
+    "category": "vegetables",
+    "collection": [ "on sale" ],
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+    "discount": 20,
+    "id": 2,
+    "images": [
+      {
+        "image_id": 211,
+        "id": 2,
+        "alt": "vegetables",
+        "src": "https://ramsreality.com/aaryamall/3.jpg",
+        "type": "vegetables"
+      }
+    ],
+    "new": 1,
+    "price": 12,
+    "sale": true,
+    "stock": 50,
+    "tags": [ "vegetable" ],
+    "title": "Karela (Bitter Graud)",
+    "type": "vegetables",
+    "variants": [
+      {
+        "variant_id": 201,
+        "id": 2,
+        "sku": "karela",
+        "image_id": 211,
+        "type": "vegetables"
+      }
+    ]
+  }
+]
